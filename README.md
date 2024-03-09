@@ -62,6 +62,8 @@ elif user_input == "bond":
   # At the beginning if entered a wrong word or numbers show an error message 
 else:
     print("You have entered a wrong word, please try again")
+
+## Please note that this is my first capston project to create and practice for HyperianDev Software Engineer BootCamp  😊
   
    
   
